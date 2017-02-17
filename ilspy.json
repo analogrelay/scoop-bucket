@@ -1,10 +1,10 @@
 {
-    "version": "2.3.1",
+    "version": "2.4.0",
     "url": [
-        "https://github.com/icsharpcode/ILSpy/releases/download/2.3.1/ILSpy_Master_2.3.1.1855_Binaries.zip"
+        "https://github.com/icsharpcode/ILSpy/releases/download/v2.4/ILSpy_Master_2.4.0.1963_Binaries.zip"
     ],
     "hash": [
-        "ce1f6eb14ed2e1ed5d2cf7c94e4868c30d6b49100fb667ab01a1e13e4544e946"
+        "d5e42b90024e3cdc047ee55269a057f24ffffb0d5f420d9c544e81e3622774fe"
     ],
     "bin": [
         "ILSpy.exe"
