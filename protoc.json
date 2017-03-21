@@ -1,0 +1,12 @@
+{
+    "version": "3.2.0",
+    "url": [
+        "https://github.com/google/protobuf/releases/download/v3.2.0/protoc-3.2.0-win32.zip"
+    ],
+    "hash": [
+        "162fbb853fb1ec49c947d0b950b6d225f28967ee062f981cb875d589233cef56"
+    ],
+    "bin": [
+        "bin/protoc.exe"
+    ]
+}
